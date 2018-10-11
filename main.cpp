@@ -190,7 +190,7 @@ int main()
 
     print(a);
 
-    cout<<"\nLangkah langkah\n\n";
+    cout<<"\nLangkah-langkah\n\n";
     goal[0][0] = 1;
     goal[0][1] = 2;
     goal[0][2] = 3;
